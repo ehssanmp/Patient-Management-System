@@ -1,3 +1,12 @@
 ### Update an existing patient entity
-DELETE http://localhost:4000/patients/123e4567-e89b-12d3-a456-426614174000
+PUT http://localhost:4000/patients/22ebf148-721e-43b8-96d5-7c0ba037f740
+Content-Type: application/json
+
+{
+  "name": "John Doe20",
+  "email": "test2@example.com",
+  "address": "123 main street",
+  "dateOfBirth": "1999-12-21",
+  "registeredDate": "2025-01-23"
+}
 ###
