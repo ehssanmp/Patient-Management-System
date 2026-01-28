@@ -4,3 +4,6 @@
 /home/ehssan/PatientMG-System/patient-management/common-schema/target/generated-sources/protobuf/java/com/pm/common/grpc/billing/BillingRequestOrBuilder.java
 /home/ehssan/PatientMG-System/patient-management/common-schema/target/generated-sources/protobuf/java/com/pm/common/grpc/billing/BillingResponse.java
 /home/ehssan/PatientMG-System/patient-management/common-schema/target/generated-sources/protobuf/java/com/pm/common/grpc/billing/BillingResponseOrBuilder.java
+/home/ehssan/PatientMG-System/patient-management/common-schema/target/generated-sources/protobuf/java/patients/events/PatientEvent.java
+/home/ehssan/PatientMG-System/patient-management/common-schema/target/generated-sources/protobuf/java/patients/events/PatientEventOrBuilder.java
+/home/ehssan/PatientMG-System/patient-management/common-schema/target/generated-sources/protobuf/java/patients/events/PatientEventOuterClass.java
